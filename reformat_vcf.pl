@@ -1,3 +1,4 @@
+#~!/usr/bin/perl -w
 ##extracts an individual, creates a file for that individual for the locations in vcf file
 #does not filter for anything
 use strict;
